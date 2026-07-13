@@ -31,3 +31,8 @@ Each project is contained within its respective directory. You can view the Jupy
 1. Clone the repository.
 2. Ensure you have Python 3.x and the required libraries installed (e.g., `pip install pandas scikit-learn jupyter`).
 3. Launch Jupyter Notebook or JupyterLab to interact with the files.
+
+## Contributors
+
+* **Yousuf Islam** - [fyseo](https://github.com/fyseo)
+* **Abdulrehman-Hatem** - [Abdulrehman's GitHub](https://github.com/Abdulrehman-Hatem)
